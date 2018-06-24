@@ -12,7 +12,7 @@ class Dress{
 
 
 $dressobject=new Dress();
-
+echo $dressobject->color;
 echo "</br></br>";
 var_dump($dressobject);
 echo "</br></br>";
